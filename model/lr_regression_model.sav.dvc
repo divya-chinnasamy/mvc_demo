@@ -1,0 +1,5 @@
+outs:
+- md5: dfb365b8194433cc4149f32285b0cdd7
+  size: 1024
+  hash: md5
+  path: lr_regression_model.sav
