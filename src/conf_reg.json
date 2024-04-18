@@ -1,0 +1,17 @@
+{   
+    "lr_regression":{
+        "Topic" : "Supervised Machine Learning",
+		"sub_topic":"Regression",
+        "Algorithm" : "Linear Regression",
+        "IV":["house_age", "distance to the nearest MRT station", "number of convenience stores", "latitude", "longitude"],
+        "DV":["house price of unit area"],
+        "input_file":"D:/Divya/Projects/MLOPS/mvc_example/data/Real_estate.csv",
+        "output_path":"D:/Divya/Projects/MLOPS/mvc_example/model/",
+        "model_name":"lr_regression_model",
+        "model_generation":"Yes",
+        "fit_intercept":"True",
+        "copy_X":"True",
+        "n_jobs":"None",
+        "positive":"False"
+    }
+}
